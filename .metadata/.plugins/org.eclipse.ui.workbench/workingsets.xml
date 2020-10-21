@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1602971295132_0" label="other" name="other">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/RafikiAnthony" type="4"/>
+</workingSet>
+<workingSet editPageId="com.hcrest.classpath.natureWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1602971295334_1" label="framework T2" name="Nature: com.ingenico.ingedev.telium.core.teliumNature"/>
+<workingSet editPageId="com.hcrest.classpath.natureWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1602971295343_2" label="framework T3" name="Nature: com.ingenico.ingedev.telium.fwt3.core.teliumFwT3Nature"/>
+<workingSet editPageId="com.hcrest.classpath.natureWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1602971295351_3" label="framework T+" name="Nature: com.ingenico.ingedev.telium.fwtplus.core.teliumFwTplusNature"/>
+</workingSetManager>
